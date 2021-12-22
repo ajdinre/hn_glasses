@@ -3,7 +3,8 @@
 Model for predicting low infomation comments on Hacker News. After classifying information as low quality, user can use a browser extension to remove those comments and its children.
 
 Before:
-![before](pics/before.png)
+<img src="pics/before.png" width="256"/>
+
 
 After:
-![after](pics/after.png)
+<img src="pics/after.png" width="256"/>
